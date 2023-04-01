@@ -4,32 +4,32 @@
     {
       "name": "All Poster",
       "description": "すべてのポスター",
-      "url": "https://aki017.github.io/vrc-poster-data/posters/all.lines"
+      "url": "https://vrc-poster-data.github.io/posters/all.lines"
     },
     {
       "name": "Next Event",
       "description": "次開催予定のイベント",
-      "url": "https://aki017.github.io/vrc-poster-data/posters/next_event"
+      "url": "https://vrc-poster-data.github.io/posters/next_event"
     },
     {
       "name": "Big Event",
       "description": "Big Event",
-      "url": "https://aki017.github.io/vrc-poster-data/posters/top"
+      "url": "https://vrc-poster-data.github.io/posters/top"
     },
     {
       "name": "Person Poster",
       "description": "Person Poster",
-      "url": "https://aki017.github.io/vrc-poster-data/posters/person"
+      "url": "https://vrc-poster-data.github.io/posters/person"
     },
     {
       "name": "Event Poster",
       "description": "Event Poster",
-      "url": "https://aki017.github.io/vrc-poster-data/posters/event"
+      "url": "https://vrc-poster-data.github.io/posters/event"
     },
     {
       "name": "World Poster",
       "description": "World Poster",
-      "url": "https://aki017.github.io/vrc-poster-data/posters/world"
+      "url": "https://vrc-poster-data.github.io/posters/world"
     }
   ]
 }
