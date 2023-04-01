@@ -4,6 +4,7 @@
     {
       "name": "All Poster",
       "description": "すべてのポスター",
+      "atlas": "https://vrc-poster-data.github.io/packs/all.png",
       "url": "https://vrc-poster-data.github.io/posters/all.lines"
     },
     {
