@@ -1,0 +1,35 @@
+{
+  "name": "Categories",
+  "list": [
+    {
+      "name": "All Poster",
+      "description": "すべてのポスター",
+      "url": "https://aki017.github.io/vrc-poster-data/posters/all"
+    },
+    {
+      "name": "Next Event",
+      "description": "次開催予定のイベント",
+      "url": "https://aki017.github.io/vrc-poster-data/posters/next_event"
+    },
+    {
+      "name": "Big Event",
+      "description": "Big Event",
+      "url": "https://aki017.github.io/vrc-poster-data/posters/top"
+    },
+    {
+      "name": "Person Poster",
+      "description": "Person Poster",
+      "url": "https://aki017.github.io/vrc-poster-data/posters/person"
+    },
+    {
+      "name": "Event Poster",
+      "description": "Event Poster",
+      "url": "https://aki017.github.io/vrc-poster-data/posters/event"
+    },
+    {
+      "name": "World Poster",
+      "description": "World Poster",
+      "url": "https://aki017.github.io/vrc-poster-data/posters/world"
+    }
+  ]
+}
